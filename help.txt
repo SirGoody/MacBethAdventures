@@ -1,0 +1,14 @@
+
+*The commands are 'North', 'East', 'South', 'West', 'Inventory', 'Look', 'Grab', 'Drop', 'Give' (to the witch), 'Score', 'Item' and 'Quit'.
+-------------------------------------------------------------------------------------------------------------------------------------------
+*The cardinal directions (N,E,S,W) is the direction you want your character to go.
+*Inventory: Checks the item you are carrying. You can only carry one item at a time.
+*Look: Looks in a room for an item.
+*Grab: Grabs the item that is in the room.
+*Drop: Drops the item in your inventory into the room you are currently in.
+*Give: Only works in room 1. Where you give your item to the witch for her ritual.
+*Score: Checks your total score for the game.
+*Item: Checks how many items there are yet to be found.
+*Quit: Quits the game
+HOW YOU WIN: You win by collecting all five items in different rooms throughout the dungeon. Then giving them to the three witches.
+---------------------------------------------------------------------------------------------------------------------------------------------
